@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <math.h>
 #include "cs50.h"
-
+// hohoho
 int number(int num, int coin)
 {
     int numfun = num;
